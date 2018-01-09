@@ -20,7 +20,7 @@ Earthquake Database: http://earthquake.usgs.gov/data/
 
 #How to start
 
-1. Copy `conf/Config.example.js` to `Config.js` and add your [MapBox API](https://www.mapbox.com/studio/account/tokens/) key to it.
+1. Copy `conf/Config.example.js` to `Config.js` and add your [MapBox API](https://www.mapbox.com/studio/account/tokens/) key.
 2. Run `npm start` to start the web server.
-3. Visit [http://localhost:3000](http://localhost:3000) in your browser.
-4. After making changes, use `webpack` to bundle them.
+3. Visit [http://localhost:3000](http://localhost:3000) in browser.
+4. Use `webpack` to bundle them.
