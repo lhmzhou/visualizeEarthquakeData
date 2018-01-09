@@ -11,6 +11,7 @@ Concept based on [this Youtube video](https://www.youtube.com/watch?v=ZiYdOwOrGy
 </br>
 
 Mapbox provides a number of tools to build maps into your website or web-based application.
+</br>
 More info about Mapbox.js: https://www.mapbox.com/mapbox.js/api/v3.0.1/
 </br>
 Earthquake Database: http://earthquake.usgs.gov/data/
