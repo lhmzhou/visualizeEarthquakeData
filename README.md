@@ -17,9 +17,8 @@ More info about Mapbox.js: https://www.mapbox.com/mapbox.js/api/v3.0.1/
 Earthquake Database: http://earthquake.usgs.gov/data/
 </br>
 
------------------------------------------------------------------------------------------------//
 
-# Getting started
+## Getting started
 
 1. Copy `conf/Config.example.js` to `Config.js` and add your [MapBox API](https://www.mapbox.com/studio/account/tokens/) key.
 2. Run `npm start` to start the web server.
